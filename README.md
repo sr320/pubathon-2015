@@ -3,6 +3,10 @@
 
 #### [Leaderboard](https://github.com/sr320/pubathon-2015/blob/master/points.ipynb)
 ---
+#Week 3 
+Old folks discount rates apply! 
+
+
 
 ##Week 2
 Any contribution - urls added [here](https://plus.google.com/u/0/106492099842577316500/posts/T2MSC3zExhR)
